@@ -12,7 +12,13 @@ A simple Python app to convert Text to Speech and Speech to Text.
 - Internet connection (for Speech to Text)
 
 ## Setup
+```bash
+git clone https://github.com/snehanair-486/text-to-speech-and-speech-to-text-converter.git
+cd text-to-speech-and-speech-to-text-converter
 pip install -r requirements.txt
+```
 
 ## Run
+```bash
 python main.py
+```
